@@ -13,6 +13,8 @@ INSTALLED_APPS = [
     # myapps
     'blog.apps.BlogConfig',
     
+    #3td apps
+    'taggit',
 
     'django.contrib.admin',
     'django.contrib.auth',
